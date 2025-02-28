@@ -22,8 +22,8 @@
     border: none;
     margin: 2% 0;
     height: 2em;
-    background-color: #00bd7a;
-    box-shadow: 0 0 5px #00bd7a;
+    background-color: #d88950;
+    box-shadow: 0 0 5px #d88950;
     color: #121212;
     font: normal normal bold 19px/29px Poppins;
     cursor: pointer;
@@ -31,19 +31,19 @@
 
 
 .login-type-btn:hover {
-    background-color: #006e47;
-    box-shadow: 0 0 5px #006e47;
+    background-color: #a05134;
+    box-shadow: 0 0 5px #a05134;
 }
 
 .login-type-btn:disabled {
-    background-color: #00bd7a;
-    box-shadow: 0 0 5px #00bd7a;
+    background-color: #d88950;
+    box-shadow: 0 0 5px #d88950;
     cursor: default;
 }
 
 .login-type-btn:disabled:hover {
-    background-color: #00bd7a;
-    box-shadow: 0 0 5px #00bd7a;
+    background-color: #d88950;
+    box-shadow: 0 0 5px #d88950;
 }
 
 .microsoft {
@@ -99,16 +99,16 @@
     border: none;
     margin: 2% 0;
     height: 2em;
-    background-color: #00bd7a;
-    box-shadow: 0 0 5px #00bd7a;
+    background-color: #d88950;
+    box-shadow: 0 0 5px #d88950;
     color: #121212;
     font: normal normal bold 19px/29px Poppins;
     cursor: pointer;
 }
 
 .login-btn:hover {
-    background-color: #006e47;
-    box-shadow: 0 0 5px #006e47;
+    background-color: #a05134;
+    box-shadow: 0 0 5px #a05134;
 }
 
 .cancel {
@@ -144,8 +144,8 @@
     border: none;
     margin: 2% 0;
     height: 2em;
-    background-color: #00bd7a;
-    box-shadow: 0 0 5px #00bd7a;
+    background-color: #d88950;
+    box-shadow: 0 0 5px #d88950;
     color: #121212;
     font: normal normal bold 19px/29px Poppins;
     cursor: pointer;
